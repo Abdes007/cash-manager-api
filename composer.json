@@ -1,0 +1,10 @@
+﻿{
+  "name": "ark-digital/cash-manager-api",
+  "description": "ARK DIGITAL Cash Manager API",
+  "require": {
+    "php": ">=8.0"
+  },
+  "scripts": {
+    "start": "php -S 0.0.0.0:$PORT"
+  }
+}
